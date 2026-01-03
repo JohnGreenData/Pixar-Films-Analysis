@@ -33,6 +33,5 @@ Outputs
  - Analysis Excel Spreadsheet, also including visualisations.
  - Raw Data sourced from Maven.
 
-Data
-
+Data  
 Data was sourced from Maven Analytics’ public dataset and covers all Pixar releases from 1995 to 2024.
