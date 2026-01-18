@@ -29,9 +29,9 @@ Tools and technologies
  - Excel
 
 Outputs
- - The full stakeholder report, including analysis, visualisations, and recommendations.
- - Analysis Excel Spreadsheet, also including visualisations.
- - Raw Data sourced from Maven.
+ - The full stakeholder report, including analysis, visualisations, and recommendations. (Pixar_Project_Report.pdf)
+ - Analysis Excel Spreadsheet, also including visualisations. (Pixar_Data_Analysis.xlsx)
+ - Raw Data sourced from Maven. (/Raw_Data/)
 
 Data  
 Data was sourced from Maven Analytics’ public dataset and covers all Pixar releases from 1995 to 2024.
